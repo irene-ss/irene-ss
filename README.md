@@ -1,7 +1,7 @@
 ## Hello!
 <!-- Welcome, my name is Irene Sunil -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=300&size=28&pause=3000&color=3CF7E4&background=FFFFFF00&width=700&lines=Welcome+to+my+page%2C+I+am+Irene+S!)](https://git.io/typing-svg)
-> I am a Computer Science major with a focus on Devices and Media. I am interested in fullstack development, virtual reality applications, Artificial Intelligence and web development.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=300&size=28&pause=3000&color=3CF7E4&background=FFFFFF00&width=700&lines=Welcome+to+my+page%2C+I+am+Irene+S.!)](https://git.io/typing-svg)
+> I major in Computer Science with a focus on Devices and Media. I am interested in fullstack development, virtual reality applications, Artificial Intelligence and web development.)
 
 ## Education
 ### B.S. CS @ Georgia Tech
@@ -22,12 +22,22 @@
 ### IDEs + OS:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 <!--
 Cloud Hositng : AWS AZURE
 -->
 
+## Github Overview
+[![@Irene-ss's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irene-ss&theme=nord_dark)](https://github.com/irene-ss)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irene-ss&layout=compact&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&custom_title=Top%20Languages&hide=nix,dockerfile,tex,makefile)](https://github.com/YOUR_USERNAME)
+
+<!--
+FOR FUTURE REF
+## Leetcode Stats
+<p align="left">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+-->
 
 <!--
 **irene-ss/irene-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
