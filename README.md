@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+<!-- Welcome, my name is Irene Sunil -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=300&size=28&pause=3000&color=3CF7E4&background=FFFFFF00&width=700&lines=Welcome+to+my+page%2C+I+am+Irene+S!)](https://git.io/typing-svg)
+> I am a Computer Science major with a focus on Devices and Media. I am interested in fullstack development, virtual reality applications, Artificial Intelligence and web development.)
 
 <!--
 **irene-ss/irene-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
