@@ -27,7 +27,12 @@ Cloud Hositng : AWS AZURE
 -->
 
 ## Github Overview
-[![@Irene-ss's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irene-ss&theme=nord_dark)](https://github.com/irene-ss)
+<table>
+  <tr>
+    <td><img src="https://gh-readme-profile.vercel.app/api?username=irene-ss&theme=dark&hide=stars,forks,issues,contributed,prs" alt="Irene's GitHub Stats"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=irene-ss&theme=dark&hide_current_streak=true&hide_longest_streak=true" alt="Irene's GitHub Contributions"/></td>
+  </tr>
+</table> 
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=irene-ss&layout=compact&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&custom_title=Top%20Languages&hide=nix,dockerfile,tex,makefile&v=fresh)
 
