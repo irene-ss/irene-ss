@@ -34,7 +34,7 @@ Cloud Hositng : AWS AZURE
   </tr>
 </table> 
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=irene-ss&layout=compact&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&custom_title=Top%20Languages&hide=nix,dockerfile,tex,makefile&v=fresh)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=irene-ss&layout=compact&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&custom_title=Top%20Languages&hide=nix,dockerfile,tex,makefile&v=2)
 
 <!--
 FOR FUTURE REF
